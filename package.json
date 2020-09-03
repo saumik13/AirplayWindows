@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "bleno": "^0.5.0",
+    "chalk": "^2.4.2",
+    "usb": "^1.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
